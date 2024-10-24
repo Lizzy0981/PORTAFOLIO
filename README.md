@@ -1,6 +1,12 @@
 # Portafolio Front End
 
-Este es un portafolio personal desarrollado por **Elizabeth Diaz Familia** como parte de una tarea asignada para el curso de **Front End**. El objetivo de este proyecto es mostrar mis habilidades, proyectos y experiencias como desarrolladora web.
+Este es un portafolio personal desarrollado por **Elizabeth Diaz Familia** como parte de una tarea asignada para el curso de **Front End**. El objetivo de este proyecto 
+es mostrar mis habilidades, proyectos y experiencias como desarrolladora web.
+
+## Imagen 
+![Captura de pantalla_23-10-2024_22347_](https://github.com/user-attachments/assets/29baf64f-32ad-4282-928d-110902ec8f9d)
+
+![Captura de pantalla_23-10-2024_2245_](https://github.com/user-attachments/assets/c90bf93e-e9cb-47eb-9737-c0136cfe82c2)
 
 ## Tecnologías Utilizadas
 
